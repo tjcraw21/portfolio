@@ -16,7 +16,7 @@ The public repository and archive contain no `AGENTS.md` or other repository edi
 
 ## Export limits
 
-The archive has 18 files: 14 TSX/CSS files and four PNG images. It contains no package manifest, lockfile, HTML entry point, app mounting file or build configuration. Imports also refer to files absent from the archive, including the theme provider, error boundary, not-found page and UI components. A Freedom Mobile image referenced under `/manus-storage/` is absent too.
+The archive has 17 files: 13 TSX/CSS files and four PNG images. It contains no package manifest, lockfile, HTML entry point, app mounting file or build configuration. Imports also refer to files absent from the archive, including the theme provider, error boundary, not-found page and UI components. A Freedom Mobile image referenced under `/manus-storage/` is absent too.
 
 Other section components, detail-page copy and images remain in the original ZIP. They were not extracted into the browsable snapshot because the narratives include attribution-sensitive claims and named-client material needing review. No private repository files were copied here.
 
