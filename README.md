@@ -1,4 +1,4 @@
-# My little corner of the internet
+# My marketing portfolio
 
 A home for my marketing work, built with AI tools. The idea: make it easy to skim my experience, find something interesting and dig into the story behind it.
 
