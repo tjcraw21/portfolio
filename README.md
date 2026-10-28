@@ -1,5 +1,7 @@
 # My marketing portfolio
 
+[View my portfolio](https://www.tristancrawford.com/)
+
 A home for my marketing work, built with AI tools. The idea: make it easy to skim my experience, find something interesting and dig into the story behind it.
 
 I'm a marketer putting a portfolio together. AI helps with the build; my focus is what the page says and how people find their way around it.
@@ -11,7 +13,7 @@ I'm a marketer putting a portfolio together. AI helps with the build; my focus i
 - [Styles](source-snapshot/client/src/index.css)
 - [Original ZIP](portfolio-v2-factchecked.zip), kept unchanged
 
-This is a **partial source snapshot**, so it isn't ready to run locally. The export is missing its package manifest, setup files and some components. The old demo link also returns 404. [What's included and missing](docs/source-inventory.md).
+This is a **partial source snapshot**, so it isn't ready to run locally. The export is missing its package manifest, setup files and some components. These files are an older export and may differ from the live website. [What's included and missing](docs/source-inventory.md).
 
 The export uses React, TypeScript, Wouter, Lucide and Tailwind CSS. Exact dependency versions aren't available.
 
